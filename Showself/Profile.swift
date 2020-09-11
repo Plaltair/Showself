@@ -49,7 +49,7 @@ struct Profile: View {
                         VStack {
                             Image("image3")
                                 .resizable()
-                                .scaledToFit()
+                                .scaledToFill()
                                 .frame(width: 100, height: 100)
                                 .clipShape(Circle())
                                 .offset(y: -50)
