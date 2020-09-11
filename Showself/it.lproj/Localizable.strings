@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  Showself
+
+  Created by Pierluca Lippi on 09/03/2020.
+  Copyright © 2020 Pierluca Lippi. All rights reserved.
+*/
+
+//Slogan
+"slogan" = "Scopri cosa le persone pensano di te";
+
+//Start.swift - Registration.swift
+"logIn" = "ACCEDI";
+"email" = "Email";
+"password" = "Password";
+"noAccount" = "Non hai un account? Registrati";
+"signIn" = "REGISTRATI";
+"goBack" = "Torna indietro";
+"confirmPassword" = "Conferma password";
+
+//Stories
+"author" = "Autore:";
+"wholeImage" = "Immagine intera";
+"reportImage" = "Segnala immagine";
+
+//Posts
+"posts" = "Post";
